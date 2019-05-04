@@ -1,4 +1,5 @@
 **About the Binomial Package**
+
 "The binomial distribution is a probability distribution that summarizes the likelihood that a value will take one of two independent values under a given set of parameters or assumptions. The underlying assumptions of the binomial distribution are that there is only one outcome for each trial, that each trial has the same probability of success, and that each trial is mutually exclusive, or independent of each other." (Investopedia)
 
 
@@ -9,20 +10,35 @@ In essence, the binomial distribution is extremely significant in probability th
 This package provides functions to be used when assessing the properties of the binomial distribution variable. 
 
 **Functions**
+
 *bin_choose()*
+
 *bin_probability()*
+
 *bin_distribution()*
+
 *plot.bindis()*
+
 *bin_cumulative()*
+
 *plot.bincum()*
+
 *bin_var()*
+
 *print.binvar()*
+
 *summary.binvar()*
+
 *print.summary.binvar()*
+
 *bin_mean()*
+
 *bin_variance()*
+
 *bin_mode()*
+
 *bin_skewness()*
+
 *bin_kurtosis()*
 
 **Usage**
