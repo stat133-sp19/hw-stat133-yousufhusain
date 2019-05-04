@@ -1,4 +1,4 @@
-**About the Binomial Package**
+**About the Binomial Package and Workout 3**
 
 "The binomial distribution is a probability distribution that summarizes the likelihood that a value will take one of two independent values under a given set of parameters or assumptions. The underlying assumptions of the binomial distribution are that there is only one outcome for each trial, that each trial has the same probability of success, and that each trial is mutually exclusive, or independent of each other." (Investopedia)
 
