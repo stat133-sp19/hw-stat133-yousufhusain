@@ -1,13 +1,8 @@
 **About the Binomial Package and Workout 3**
 
-"The binomial distribution is a probability distribution that summarizes the likelihood that a value will take one of two independent values under a given set of parameters or assumptions. The underlying assumptions of the binomial distribution are that there is only one outcome for each trial, that each trial has the same probability of success, and that each trial is mutually exclusive, or independent of each other." (Investopedia)
+The binomial distribution is extremely significant in probability theory and statistics. It is widely used as a model to calculate probabilities about the number of successes in a number of identical trials.
 
-
-"The binomial distribution is a common discrete distribution used in statistics, as opposed to a continuous distribution, such as the normal distribution. This is because the binomial distribution only counts two states, typically represented as 1 (for a success) or 0 (for a failure) given a number of trials in the data. The binomial distribution, therefore, represents the probability for x successes in n trials, given a success probability p for each trial." (Investopedia)
-
-In essence, the binomial distribution is extremely significant in probability theory and statistics. It is widely used as a model to calculate probabilities about the number of successes in a number of identical trials.
-
-This package provides functions to be used when assessing the properties of the binomial distribution variable. 
+The purpose of this package is to provide functions to be used when assessing the properties of the binomial distribution variable. 
 
 **Functions**
 
